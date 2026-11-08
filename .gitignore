@@ -8,3 +8,6 @@ data/*.db
 *.log
 .pixel_cache/
 node_modules/
+*.db-shm
+*.db-wal
+*.session
